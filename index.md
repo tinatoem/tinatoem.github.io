@@ -7,3 +7,4 @@ Source for this page: [github.com/tinatoem/tinatoem.github.io](https://github.co
 ## What I built in this course
 
 - Session 1: this page.
+- Session 2: [Using an MCP server](using-mcp.html)
