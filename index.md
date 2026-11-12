@@ -38,3 +38,4 @@ The share of tasks affected by AI rose by half, from 0.046 to 0.069, while the c
 5. A number the paper prints that does not follow from its other numbers
 The paper prints the annual TFP growth as 0.064% (pp. 29 and 42), but this does not follow from its own ten-year gain of 0.66%. Spread over ten years, 0.66% is about 0.066% per year (compounding gives the same result when rounded), so the printed figure should have been 0.066%.
 
+- Session 2: [Our tutor, the design](https://tinatoem.github.io/team10/design.html)
